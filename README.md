@@ -1,7 +1,7 @@
 <h1 align="center">📚 Recursos Educativos - José Gómez García</h1>
 
 <p align="center">
-  <strong>Material didáctico para Formación Profesional y ESO</strong>
+  <strong>Material didáctico para ESO y Formación Profesional</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍🏫 Sobre mí
 
-Soy **José Gómez García**, profesor de Formación Profesional y ESO en Alicante. Titulado Superior en Desarrollo de Aplicaciones Web por el IES Mare Nostrum y Graduado en Ciencias de la Actividad Física y el Deporte por la UA.
+Soy **José Gómez García**, profesor de ESO y Formación Profesional en Alicante. Titulado Superior en Desarrollo de Aplicaciones Web por el IES Mare Nostrum y Graduado en Ciencias de la Actividad Física y el Deporte por la UA.
 
 Este repositorio contiene materiales, ejercicios y recursos que utilizo en clases para facilitar el aprendizaje de los alumnos.
 
@@ -84,7 +84,7 @@ El material de este repositorio está disponible para uso educativo.
 ---
 
 ### 💻 Gist
-🔗 https://gist.github.com/Jose-GG
+🔗 https://gist.github.com/JoseGG-10
 
 ---
 
